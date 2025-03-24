@@ -174,7 +174,7 @@ footer{
   padding: 40px;
   border-top: 2px solid #eee;
 }
-@media (max-width: 768px){
+@media (min-width: 768px){
   main, header, nav{
     max-width: 98%;
     margin: 0 auto;
